@@ -58,7 +58,7 @@
                  "value":"..\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -144,7 +144,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.3.3",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -894,9 +894,32 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":321,
+         "image":"..\/..\/karte\/garten grob.png",
+         "imageheight":32,
+         "imagewidth":64,
+         "margin":0,
+         "name":"kacheln\/platten",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"exitSceneUrl",
+                         "type":"string",
+                         "value":"..\/Lyon\/lyon.json"
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.2,
+ "version":1.4,
  "width":46
 }

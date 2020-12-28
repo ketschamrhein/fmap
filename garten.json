@@ -81,16 +81,6 @@
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"exitSceneUrl",
-                         "type":"string",
-                         "value":"..\/Lyon\/lyon.json"
-                        }]
-                }],
          "tilewidth":32
         }],
  "tilewidth":32,
