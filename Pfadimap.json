@@ -14535,11 +14535,11 @@
         {
          "columns":21,
          "firstgid":902,
-         "image":"terrain.png",
+         "image":"terrain1.png",
          "imageheight":736,
          "imagewidth":672,
          "margin":0,
-         "name":"terrain",
+         "name":"terrain1",
          "spacing":0,
          "tilecount":483,
          "tileheight":32,
