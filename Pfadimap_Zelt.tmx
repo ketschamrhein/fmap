@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="9" height="13" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="1">
+ <editorsettings>
+  <export target="Pfadimap_Zelt.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" name="basis" tilewidth="32" tileheight="32" tilecount="1995" columns="15">
   <image source="png basis/tiles_png_community_bytewerk_cija_32x32_expansion for Pipoya_CC0.png" width="480" height="4256"/>
   <tile id="960">
