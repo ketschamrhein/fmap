@@ -14444,7 +14444,7 @@
         {
          "columns":28,
          "firstgid":1,
-         "image":"..\/..\/..\/Downloads\/overworld.png",
+         "image":"overworld.png",
          "imageheight":384,
          "imagewidth":896,
          "margin":0,
@@ -14457,7 +14457,7 @@
         {
          "columns":8,
          "firstgid":337,
-         "image":"..\/..\/..\/Downloads\/tileset.png",
+         "image":"tileset.png",
          "imageheight":336,
          "imagewidth":256,
          "margin":0,
@@ -14470,7 +14470,7 @@
         {
          "columns":28,
          "firstgid":417,
-         "image":"..\/..\/..\/Downloads\/overworld.png",
+         "image":"overworld.png",
          "imageheight":384,
          "imagewidth":896,
          "margin":0,
@@ -14483,7 +14483,7 @@
         {
          "columns":8,
          "firstgid":753,
-         "image":"..\/..\/..\/Downloads\/Pipoya RPG World Tileset 48x48 40x40 32x32\/Pipoya RPG World Tileset 48x48 40x40 32x32\/32x32\/[A]_type3\/pipo-map001_at-sabaku.png",
+         "image":"pipo-map001_at-sabaku.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -14496,7 +14496,7 @@
         {
          "columns":1,
          "firstgid":801,
-         "image":"..\/..\/..\/Downloads\/Pipoya RPG World Tileset 48x48 40x40 32x32\/Pipoya RPG World Tileset 48x48 40x40 32x32\/32x32\/[A]_type1\/pipo-map001_at-sabaku.png",
+         "image":"pipo-map001_at-sabaku.png",
          "imageheight":160,
          "imagewidth":32,
          "margin":0,
@@ -14509,7 +14509,7 @@
         {
          "columns":8,
          "firstgid":806,
-         "image":"..\/..\/..\/Downloads\/Pipoya RPG World Tileset 48x48 40x40 32x32\/Pipoya RPG World Tileset 48x48 40x40 32x32\/32x32\/[A]_type3\/pipo-map001_at-umi.png",
+         "image":"pipo-map001_at-umi.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -14522,7 +14522,7 @@
         {
          "columns":8,
          "firstgid":854,
-         "image":"..\/..\/..\/Downloads\/Pipoya RPG World Tileset 48x48 40x40 32x32\/Pipoya RPG World Tileset 48x48 40x40 32x32\/32x32\/[A]_type3\/pipo-map001_at-kusa.png",
+         "image":"pipo-map001_at-kusa.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -14535,7 +14535,7 @@
         {
          "columns":21,
          "firstgid":902,
-         "image":"..\/..\/..\/Downloads\/terrain\/terrain.png",
+         "image":"terrain.png",
          "imageheight":736,
          "imagewidth":672,
          "margin":0,
@@ -14548,7 +14548,7 @@
         {
          "columns":15,
          "firstgid":1385,
-         "image":"..\/..\/..\/Downloads\/tiles_png_community_bytewerk_cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"tiles_png_community_bytewerk_cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
