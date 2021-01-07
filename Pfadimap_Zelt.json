@@ -32,7 +32,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/fmap\/Pfadimap_Insel.json"
+                 "value":"..\/fmap\/Pfadimap_Insel.json#Zeltraus"
                 }],
          "type":"tilelayer",
          "visible":true,
