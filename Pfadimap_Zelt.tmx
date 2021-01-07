@@ -17,6 +17,89 @@
     <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
+  <tile id="1385">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1386">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1387">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1399">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1400">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1401">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1402">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1415">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1416">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1417">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1560">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1561">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1562">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1575">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1576">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1577">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="1996" name="Mate" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="png basis/01_mate.png" width="32" height="32"/>
  </tileset>
  <layer id="4" name="Start" width="9" height="13">
   <data encoding="csv">
@@ -75,7 +158,7 @@
 0,1459,1460,1561,1562,1563,1459,1460,0,
 0,1474,1475,1576,1577,1578,1474,1475,0,
 0,0,0,0,0,0,0,0,0,
-0,0,1415,0,0,0,0,1733,0,
+0,1996,1415,0,0,0,0,1733,0,
 0,1415,1400,1415,0,0,0,1748,0,
 0,0,1415,0,0,0,0,1703,0,
 0,0,0,0,0,0,0,1718,0,
