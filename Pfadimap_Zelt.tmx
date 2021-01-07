@@ -126,7 +126,7 @@
  </layer>
  <layer id="5" name="exit" width="9" height="13">
   <properties>
-   <property name="exitSceneURL" value="../fmap/Pfadimap_Insel.json"/>
+   <property name="exitSceneUrl" value="../fmap/Pfadimap_Insel.json"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,
