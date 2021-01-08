@@ -38,7 +38,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/de.battleship-game.org"
+                 "value":"https:\/\/howto.rc3.world\/maps.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/fmap\/Pfadimap_Basis.js#Back_klo"
+                 "value":"..\/fmap\/Pfadimap_Basis.json#Back_klo"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -636,7 +636,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"toilette.mp3"
+                         "value":"sounds\/toilette.mp3"
                         }]
                 }, 
                 {
@@ -645,7 +645,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"toilette.mp3"
+                         "value":"sounds\/toilette.mp3"
                         }]
                 }, 
                 {
