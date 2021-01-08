@@ -229,7 +229,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"..\/png basis\/tiles_png_community_bytewerk_cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"png basis\/tiles_png_community_bytewerk_cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
@@ -594,7 +594,7 @@
         {
          "columns":8,
          "firstgid":1996,
-         "image":"..\/png basis\/[A]Grass_pipo.png",
+         "image":"png basis\/[A]Grass_pipo.png",
          "imageheight":2112,
          "imagewidth":256,
          "margin":0,
@@ -607,7 +607,7 @@
         {
          "columns":1,
          "firstgid":2524,
-         "image":"..\/png basis\/07_toilette.png",
+         "image":"png basis\/07_toilette.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -620,7 +620,7 @@
         {
          "columns":4,
          "firstgid":2526,
-         "image":"..\/png basis\/!$door_ext.png",
+         "image":"png basis\/!$door_ext.png",
          "imageheight":256,
          "imagewidth":128,
          "margin":0,
@@ -633,7 +633,7 @@
         {
          "columns":16,
          "firstgid":2558,
-         "image":"..\/png basis\/3_Bathroom_32x32.png",
+         "image":"png basis\/3_Bathroom_32x32.png",
          "imageheight":704,
          "imagewidth":512,
          "margin":0,
@@ -646,7 +646,7 @@
         {
          "columns":4,
          "firstgid":2910,
-         "image":"..\/png basis\/Blinking_worldexit.png",
+         "image":"png basis\/Blinking_worldexit.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
