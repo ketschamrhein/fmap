@@ -140,7 +140,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/fmap\/Pfadimap_Basis.json"
+                 "value":"..\/fmap\/Pfadimap_Basis.json#start_auf_steg"
                 }],
          "type":"tilelayer",
          "visible":true,
