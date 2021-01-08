@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/Toilette.json"
+         "target":"Toilette.json"
         }
     },
  "height":13,
@@ -186,7 +186,7 @@
         }, 
         {
          "draworder":"topdown",
-         "id":17,
+         "id":19,
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
@@ -219,7 +219,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":19,
+ "nextlayerid":20,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
