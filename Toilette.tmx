@@ -132,57 +132,62 @@
   </tile>
   <tile id="1264">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1265">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1266">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1267">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1279">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1280">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1281">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1282">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1294">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1295">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1296">
    <properties>
-    <property name="collides " type="bool" value="true"/>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1297">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
    </properties>
   </tile>
   <tile id="1695">
@@ -258,8 +263,8 @@
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,2010,0,2010,0,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,2010,0,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,2010,0,2010,0,2010,0,2010,0,0,0,0,0,0,0,0,0,0,0,0,
+0,2010,0,2010,0,2010,0,2010,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -308,35 +313,18 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2914,2915,0
 </data>
  </layer>
- <layer id="13" name="Spüle" width="20" height="13">
-  <data encoding="csv">
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1265,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1280,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1280,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1280,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1280,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1280,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1280,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1280,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1295,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-</data>
- </layer>
  <layer id="6" name="Wände" width="20" height="13">
   <data encoding="csv">
 722,722,722,722,722,722,722,722,722,722,722,722,722,722,722,722,722,722,722,722,
 721,752,722,752,722,752,722,752,722,752,752,752,752,752,752,752,752,752,752,752,
 721,767,752,767,752,767,752,767,722,767,767,767,767,767,767,767,767,767,767,767,
 721,0,767,0,767,0,767,0,722,0,0,0,0,0,0,0,0,0,0,0,
-721,0,0,0,0,0,0,0,722,0,0,0,0,0,0,0,0,0,0,0,
-721,722,722,722,722,722,722,0,722,722,722,722,722,722,722,0,0,0,0,0,
-721,752,722,752,722,752,722,0,752,752,752,752,752,752,752,0,0,0,0,0,
-722,767,752,767,752,767,752,0,767,767,767,767,767,767,767,0,0,0,0,0,
-721,0,767,0,767,0,767,0,0,0,0,0,0,0,0,0,0,0,0,0,
-721,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+721,0,0,0,0,0,0,0,722,0,0,0,0,0,0,0,0,0,0,1280,
+721,722,722,722,722,722,722,0,722,722,722,722,722,722,722,0,0,0,0,1280,
+721,752,722,752,722,752,722,0,752,752,752,752,752,752,752,0,0,0,0,1280,
+722,767,752,767,752,767,752,0,767,767,767,767,767,767,767,0,0,0,0,1280,
+721,0,767,0,767,0,767,0,0,0,0,0,0,0,0,0,0,0,0,1280,
+721,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1280,
 722,722,722,722,722,722,722,722,722,722,722,722,722,722,722,0,0,0,0,1696,
 752,752,752,752,752,752,752,752,752,752,752,752,752,752,752,0,0,0,0,1711,
 767,767,767,767,767,767,767,767,767,767,767,767,767,767,767,0,0,0,0,1726
