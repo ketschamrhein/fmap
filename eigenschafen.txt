@@ -8,3 +8,5 @@ playAudio
 playAudioLoop
 exitSceneUrl
 collides
+
+http://de.battleship-game.org/
