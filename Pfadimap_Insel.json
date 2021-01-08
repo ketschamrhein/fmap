@@ -138,7 +138,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/fmap\/Pfadimap_Basis.json#start_auf_steg"
                 }],
