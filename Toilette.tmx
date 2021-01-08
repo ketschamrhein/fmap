@@ -212,11 +212,29 @@
  </tileset>
  <tileset firstgid="2558" name="3_Bathroom_32x32" tilewidth="32" tileheight="32" tilecount="352" columns="16">
   <image source="png basis/3_Bathroom_32x32.png" width="512" height="704"/>
+  <tile id="7">
+   <properties>
+    <property name="playAudio" value="sounds/toilette.mp3"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="playAudio" value="sounds/toilette.mp3"/>
+   </properties>
+  </tile>
+  <tile id="39">
+   <properties>
+    <property name="playAudio" value="sounds/toilette.mp3"/>
+   </properties>
+  </tile>
  </tileset>
  <tileset firstgid="2910" name="Blinking_worldexit" tilewidth="32" tileheight="32" tilecount="16" columns="4">
   <image source="png basis/Blinking_worldexit.png" width="128" height="128"/>
  </tileset>
  <layer id="2" name="start" width="20" height="13">
+  <properties>
+   <property name="startLayer" type="bool" value="true"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -233,29 +251,9 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="18" name="spülung" width="20" height="13">
-  <properties>
-   <property name="playAudio" value="toilette.mp3"/>
-  </properties>
-  <data encoding="csv">
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,2010,0,2010,0,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,2010,0,2010,0,2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-</data>
- </layer>
  <layer id="16" name="Schiffeversenken1" width="20" height="13">
   <properties>
-   <property name="openWebsite" value="http://de.battleship-game.org"/>
+   <property name="openWebsite" value="https://howto.rc3.world/maps.html"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -292,7 +290,7 @@
  </layer>
  <layer id="12" name="EXIT" width="20" height="13">
   <properties>
-   <property name="exitUrl" value="../fmap/Pfadimap_Basis.js#Back_klo"/>
+   <property name="exitUrl" value="../fmap/Pfadimap_Basis.json#Back_klo"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
