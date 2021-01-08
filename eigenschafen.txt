@@ -7,3 +7,4 @@ getBadge
 playAudio
 playAudioLoop
 exitSceneUrl
+collides
