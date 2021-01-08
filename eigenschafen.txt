@@ -6,4 +6,4 @@ floorLayer
 getBadge
 playAudio
 playAudioLoop
-exitSceneURL
+exitSceneUrl
