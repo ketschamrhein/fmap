@@ -146,7 +146,7 @@
  </layer>
  <layer id="7" name="Lagerfeuer" width="9" height="13">
   <properties>
-   <property name="openWebsite" value="https://youtu.be/L_LUpnjgPso"/>
+   <property name="openWebsite" value="https://s3-eu-central-1.amazonaws.com/vodafone-featured-live/wp-content/uploads/2017/12/13141505/kaminfeuerappsgibtesinvielenvariantenfuerandroidundiosmitausgabeauftv.jpg"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,
