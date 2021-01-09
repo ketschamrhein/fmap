@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="106" height="88" tilewidth="32" tileheight="32" infinite="1" nextlayerid="24" nextobjectid="1">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="106" height="88" tilewidth="32" tileheight="32" infinite="1" nextlayerid="25" nextobjectid="1">
  <editorsettings>
   <export target="Pfadimap_Vere.json" format="json"/>
  </editorsettings>
@@ -2277,7 +2277,7 @@
  <tileset firstgid="2521" name="Blinking_worldexit" tilewidth="32" tileheight="32" tilecount="16" columns="4">
   <image source="png basis/Blinking_worldexit.png" width="128" height="128"/>
  </tileset>
- <layer id="19" name="exit_weltall" width="106" height="88">
+ <layer id="19" name="exit_weltall" width="106" height="88" locked="1">
   <properties>
    <property name="exitUrl" value="../fmap/Pfadimap_Planet.json"/>
   </properties>
@@ -2302,7 +2302,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="20" name="zurueck_von_weltraum" width="106" height="88">
+ <layer id="20" name="zurueck_von_weltraum" width="106" height="88" locked="1">
   <properties>
    <property name="startLayer" type="bool" value="true"/>
   </properties>
@@ -2345,7 +2345,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="16" name="start" width="106" height="88">
+ <layer id="16" name="start" width="106" height="88" locked="1">
   <properties>
    <property name="startLayer" type="bool" value="true"/>
   </properties>
@@ -2388,7 +2388,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="15" name="Wasser" width="106" height="88">
+ <layer id="15" name="Wasser" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="0" y="0" width="16" height="16">
 436,436,436,436,436,436,436,436,436,436,436,436,436,436,436,436,
@@ -3148,7 +3148,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="1" name="Boden" width="106" height="88">
+ <layer id="1" name="Boden" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="0" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -3512,7 +3512,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="11" name="wege" width="106" height="88">
+ <layer id="11" name="wege" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="0" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -3858,7 +3858,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="10" name="Kachelebene 7" width="106" height="88">
+ <layer id="10" name="Kachelebene 7" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="16" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -3934,7 +3934,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="5" name="Mauer 1" width="106" height="88">
+ <layer id="5" name="Mauer 1" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="16" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -3992,7 +3992,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="4" name="Mauer 2" width="106" height="88">
+ <layer id="4" name="Mauer 2" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="16" width="16" height="16">
 0,0,0,0,1547,1548,0,0,0,0,0,0,0,0,0,0,
@@ -4032,7 +4032,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="3" name="Mauer 3" width="106" height="88">
+ <layer id="3" name="Mauer 3" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="16" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -4144,7 +4144,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="2" name="Mauer 4" width="106" height="88">
+ <layer id="2" name="Mauer 4" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="32" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -4220,7 +4220,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="8" name="Haus" width="106" height="88">
+ <layer id="8" name="Haus" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="16" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -4278,7 +4278,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="12" name="Deko" width="106" height="88">
+ <layer id="12" name="Deko" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="0" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -4552,8 +4552,8 @@
 </chunk>
   </data>
  </layer>
- <objectgroup id="23" name="floorLayer"/>
- <layer id="21" name="overlay" width="106" height="88">
+ <objectgroup id="24" name="floorLayer"/>
+ <layer id="21" name="overlay" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="16" width="16" height="16">
 0,0,0,0,1547,1548,0,0,0,0,0,0,0,0,0,0,
@@ -4593,7 +4593,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="13" name="Deko 2" width="106" height="88">
+ <layer id="13" name="Deko 2" width="106" height="88" locked="1">
   <data encoding="csv">
    <chunk x="48" y="0" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -4867,7 +4867,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="14" name="Exit" width="106" height="88">
+ <layer id="14" name="Exit" width="106" height="88" locked="1">
   <properties>
    <property name="exitUrl" value="../fmap/Pfadimap_Basis.json#zurueck_von_vere"/>
   </properties>
