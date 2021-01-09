@@ -200,7 +200,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/fmap\/Pfadimap_Vere.json"
+                 "value":"..\/fmap\/Pfadimap_Vere.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
