@@ -87,7 +87,7 @@
                  "x":32,
                  "y":64
                 }],
-         "height":64,
+         "height":32,
          "id":16,
          "name":"start",
          "opacity":1,
@@ -98,10 +98,10 @@
                  "value":true
                 }],
          "startx":32,
-         "starty":16,
+         "starty":48,
          "type":"tilelayer",
          "visible":true,
-         "width":48,
+         "width":16,
          "x":0,
          "y":0
         }, 
