@@ -615,7 +615,7 @@
 </chunk>
   </data>
  </layer>
- <objectgroup id="10" name="Objektebene 1"/>
+ <objectgroup id="10" name="floorLayer"/>
  <layer id="5" name="Deko 2" width="44" height="48">
   <data encoding="csv">
    <chunk x="0" y="16" width="16" height="16">

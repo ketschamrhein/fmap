@@ -1074,7 +1074,7 @@
         {
          "draworder":"topdown",
          "id":25,
-         "name":"Objektebene 1",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
@@ -1112,7 +1112,7 @@
                  "x":64,
                  "y":32
                 }],
-         "height":48,
+         "height":32,
          "id":21,
          "name":"overlay",
          "opacity":1,
