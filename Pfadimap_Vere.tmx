@@ -4552,7 +4552,7 @@
 </chunk>
   </data>
  </layer>
- <objectgroup id="25" name="Objektebene 1"/>
+ <objectgroup id="25" name="floorLayer"/>
  <layer id="21" name="overlay" width="106" height="88">
   <data encoding="csv">
    <chunk x="48" y="16" width="16" height="16">
