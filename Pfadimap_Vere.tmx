@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="106" height="88" tilewidth="32" tileheight="32" infinite="1" nextlayerid="26" nextobjectid="1">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="106" height="88" tilewidth="32" tileheight="32" infinite="1" nextlayerid="27" nextobjectid="1">
  <editorsettings>
   <export target="Pfadimap_Vere.json" format="json"/>
  </editorsettings>
@@ -4577,7 +4577,7 @@
 </chunk>
   </data>
  </layer>
- <objectgroup id="25" name="floorLayer"/>
+ <objectgroup id="26" name="floorLayer"/>
  <layer id="21" name="overlay" width="106" height="88">
   <data encoding="csv">
    <chunk x="48" y="16" width="16" height="16">
