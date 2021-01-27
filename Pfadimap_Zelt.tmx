@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="9" height="13" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="1">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="9" height="13" tilewidth="32" tileheight="32" infinite="0" nextlayerid="10" nextobjectid="1">
  <editorsettings>
   <export target="Pfadimap_Zelt.json" format="json"/>
  </editorsettings>
@@ -107,6 +107,29 @@
  <tileset firstgid="1997" name="exit" tilewidth="32" tileheight="32" tilecount="16" columns="4">
   <image source="png basis/Blinking_worldexit.png" width="128" height="128"/>
  </tileset>
+ <tileset firstgid="2013" name="flashlight" tilewidth="32" tileheight="32" tilecount="2" columns="1">
+  <image source="Link_bilder/3232/flashlight.png" width="32" height="64"/>
+ </tileset>
+ <layer id="9" name="taschenlampe" width="9" height="13">
+  <properties>
+   <property name="openWebsite" value="https://alienrescue.family-heck.de/#/item/1951c1cf4297156cc6628178bc6dd54c900b9edf"/>
+  </properties>
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,3,3,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
  <layer id="4" name="Start" width="9" height="13">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,
@@ -228,8 +251,8 @@
 0,0,1852,0,0,0,0,0,0,
 0,0,1867,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,
-0,1864,0,0,0,0,0,0,0,
-0,1879,1822,0,0,0,0,0,0,
+0,2013,0,0,0,0,0,0,0,
+0,2014,1822,0,0,0,0,0,0,
 0,1835,1823,0,0,0,0,1763,0,
 0,1837,1836,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,
