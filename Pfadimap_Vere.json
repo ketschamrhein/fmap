@@ -23,7 +23,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -35,7 +35,7 @@
          "name":"wall",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -53,7 +53,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -71,7 +71,7 @@
                  "value":"..\/fmap\/Pfadimap_Burghaus.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -89,7 +89,7 @@
                  "value":"..\/fmap\/Pfadimap_Basis.json#zurueck_von_vere"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -107,7 +107,7 @@
                  "value":"..\/fmap\/Pfadimap_Planet.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -125,7 +125,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -137,7 +137,7 @@
          "name":"Wasser",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -161,7 +161,7 @@
          "name":"wege",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -185,7 +185,7 @@
          "name":"Mauer 1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -197,7 +197,7 @@
          "name":"Mauer 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -209,7 +209,7 @@
          "name":"Mauer 3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -221,7 +221,7 @@
          "name":"Mauer 4",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -233,7 +233,7 @@
          "name":"Haus",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -257,7 +257,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -268,7 +268,7 @@
          "name":"overlay",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -280,7 +280,7 @@
          "name":"Deko 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":112,
          "x":0,
          "y":0
@@ -778,7 +778,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -1633,7 +1633,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
