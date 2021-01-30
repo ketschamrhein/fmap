@@ -1704,7 +1704,7 @@
  </tileset>
  <layer id="39" name="feufeu" width="167" height="112">
   <properties>
-   <property name="openWebsite" value="https://i.pinimg.com/originals/89/23/17/892317173c5436a5983e6591f969111a.gif"/>
+   <property name="openWebsite" value="https://media.giphy.com/media/Z8gjRIpo5vGA8/giphy.gif"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
